@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 18.04.2024
 
 ## AIM:
 
@@ -53,8 +53,8 @@
 
 
 ## Output:
+![ex 2](https://github.com/Bosevennila/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144870486/0174727c-0199-4fa6-8d0c-fd0ee7357698)
 
-![image](https://github.com/d-kavinraja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119875375/703d6f1a-6de3-4936-91e7-054e136a0026)
 
 ### Name: CHANDRAPRIYADHARSHINI C
 ### Register Number: 212223240019
