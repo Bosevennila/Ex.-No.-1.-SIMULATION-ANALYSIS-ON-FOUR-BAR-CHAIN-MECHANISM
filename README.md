@@ -53,7 +53,7 @@
 
 
 ## Output:
-![ex 2](https://github.com/Bosevennila/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144870486/0174727c-0199-4fa6-8d0c-fd0ee7357698)
+![image](https://github.com/Bosevennila/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144870486/3dfa3b90-69c7-4b6a-a54e-9f76ce2efeaf)
 
 
 ### Name: CHANDRAPRIYADHARSHINI C
